@@ -1,0 +1,25 @@
+body {
+    background-image: url("mathquiz.png");
+    text-align: center!important;
+    color: rgb(226, 144, 36)!important; 
+}
+
+header,#leftfloat, #rightfloat {
+    border-style: dotted;
+    border-color: antiquewhite;
+    padding: 10px;
+    margin: 30px;
+}
+h1,h2,h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#leftfloat {
+    float: left;
+}
+#rightfloat {
+    float: right;
+}
+#arrow {
+    height: 5%;
+    width: 5%;
+}
